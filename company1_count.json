@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569b3"
+  },
+  "Word": "terminates",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569b4"
+  },
+  "Word": "unruly",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569b5"
+  },
+  "Word": "sexual harassment",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569b6"
+  },
+  "Word": "obscenity",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569b7"
+  },
+  "Word": "'insulting the modesty",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569b8"
+  },
+  "Word": "'Urinating",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569b9"
+  },
+  "Word": "Layoffs",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569ba"
+  },
+  "Word": "fires",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569bb"
+  },
+  "Word": "Deepfakes",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569bc"
+  },
+  "Word": "accused",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569bd"
+  },
+  "Word": "fired",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569be"
+  },
+  "Word": "pull back",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569bf"
+  },
+  "Word": "reduce size",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569c0"
+  },
+  "Word": "scale back",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569c1"
+  },
+  "Word": "cuts",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569c2"
+  },
+  "Word": "exiting",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569c3"
+  },
+  "Word": "exit",
+  "Frequency": 1
+},{
+  "_id": {
+    "$oid": "63c284dd47e51ebf35c569c4"
+  },
+  "Word": "Exit",
+  "Frequency": 1
+}]
